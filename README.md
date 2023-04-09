@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> 位卑未敢忘忧国，事定犹须待阖棺。
+> ——陆游 《病起书怀》
+
+[![HoshuChiu's github stats](https://github-readme-stats.vercel.app/api?username=HoshuChiu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![HoshuChiu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoshuChiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
