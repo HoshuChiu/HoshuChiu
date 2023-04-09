@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 > 位卑未敢忘忧国，事定犹须待阖棺。
 > ——陆游 《病起书怀》
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HoshuChiu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 这里是立志成为全栈工程师的秋河树（2001~）。
 
 技能栈：
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [x] 网络安全
 
 [x] 大规模集成电路设计
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HoshuChiu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 [![HoshuChiu's github stats](https://github-readme-stats.vercel.app/api?username=HoshuChiu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
