@@ -1,4 +1,4 @@
-### 欢迎
+### :house: 欢迎！
 
 <!--
 **HoshuChiu/HoshuChiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,32 +22,32 @@ Here are some ideas to get you started:
 
 技能栈：
 
-[o] 底层：C（2014）/C++（2017）
+:ballot_box_with_check: 底层：C（2014）/C++（2017）
 
-[o] GUI：Qt（2020）
+:ballot_box_with_check: GUI：Qt（2020）
 
-[o] 后端：Golang（2022）/Python（2022）/C#（2023）
+:ballot_box_with_check: 后端：Golang（2022）/Python（2022）/C#（2023）
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoshuChiu&layout=compact" />
 
-[o] 嵌入式：ARM（2019）/MCS-51（2015）
+:ballot_box_with_check: 嵌入式：ARM（2019）/MCS-51（2015）
 
-[o] PCB设计（2021）
+:ballot_box_with_check: PCB设计（2021）
 
-[o] 实体建模（2022）
+:ballot_box_with_check: 实体建模（2022）
 
 目标拿下：
 
-[x] 底层：Rust
+:clock430: 底层：Rust
 
-[x] 前端：js
+:clock430: 前端：js
 
-[x] 图形学：Vulkan/OpenGL
+:clock430: 图形学：Vulkan/OpenGL
 
-[x] 游戏引擎：Unity
+:clock430: 游戏引擎：Unity
 
-[x] 并行计算
+:clock430: 并行计算
 
-[x] 网络安全
+:clock430: 网络安全
 
-[x] 大规模集成电路设计
+:clock430: 大规模集成电路设计
