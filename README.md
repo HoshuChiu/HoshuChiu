@@ -24,23 +24,25 @@ Here are some ideas to get you started:
 
 :ballot_box_with_check: 底层：C（2014）/C++（2017）
 
-:ballot_box_with_check: GUI：Qt（2020）
+:ballot_box_with_check: 前端：Qt（2020）/Vue.js（2023）
 
-:ballot_box_with_check: 后端：Golang（2022）/Python（2022）/C#（2023）
+:ballot_box_with_check: 后端：<del>Golang（2022）已经忘了</del>/Python（2022）
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoshuChiu&layout=compact" />
 
-:ballot_box_with_check: 嵌入式：ARM（2019）/MCS-51（2015）
+:ballot_box_with_check: 嵌入式：ARM（2019）/<del>51（2015）过时技术，不写了</del>/ESP32（2024）
+
+:ballot_box_with_check: 数字电路设计：Verilog HDL（2024）
 
 :ballot_box_with_check: PCB设计（2021）
 
 :ballot_box_with_check: 实体建模（2022）
 
+
+
 目标拿下：
 
 :clock430: 底层：Rust
-
-:clock430: 前端：js
 
 :clock430: 图形学：Vulkan/OpenGL
 
