@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 :clock430: 图形学：Vulkan/OpenGL
 
-:clock430: 游戏引擎：Unity
+:clock430: 游戏引擎：<del>Unity谁爱用啊这垃圾，自由软件万岁</del>Godot
 
 :clock430: 并行计算
 
