@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 目标拿下：
 
-:clock430: 底层：Rust
+:clock430: 底层：Rust（真不想学原神）
 
 :clock430: 图形学：Vulkan/OpenGL
 
