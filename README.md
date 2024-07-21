@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 :ballot_box_with_check: 底层：C（2014）/C++（2017）
 
-:ballot_box_with_check: 前端：Qt（2020）/Vue.js（2023）
+:ballot_box_with_check: 前端：Qt（2020）/Vue.js（2023）/LVGL（2024）
 
 :ballot_box_with_check: 后端：<del>Golang（2022）已经忘了</del>/Python（2022）
 
@@ -38,15 +38,13 @@ Here are some ideas to get you started:
 
 :ballot_box_with_check: 实体建模（2022）
 
-
+:ballot_box_with_check: 游戏编程：Godot（2024）
 
 目标拿下：
 
 :clock430: 底层：Rust
 
 :clock430: 图形学：Vulkan/OpenGL
-
-:clock430: 游戏引擎：<del>Unity谁爱用啊这垃圾，自由软件万岁</del>Godot
 
 :clock430: 并行计算
 
