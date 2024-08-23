@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 :ballot_box_with_check: PCB设计（2021）
 
-:ballot_box_with_check: 实体建模（2022）
+:ballot_box_with_check: CAD建模：Solidworks（2022）
+
+:ballot_box_with_check: CG建模：Blender（2024）
 
 :ballot_box_with_check: 游戏编程：Godot（2024）
 
