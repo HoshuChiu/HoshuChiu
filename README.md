@@ -20,15 +20,15 @@ Here are some ideas to get you started:
   
 这里是立志成为全栈工程师的秋河树（2001~）。
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoshuChiu&layout=compact" />
+
 技能栈：
 
 :ballot_box_with_check: 底层：C（2014）/C++（2017）
 
 :ballot_box_with_check: 前端：Qt（2020）/Vue.js（2023）/LVGL（2024）
 
-:ballot_box_with_check: 后端：<del>Golang（2022）已经忘了</del>/Python（2022）
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoshuChiu&layout=compact" />
+:ballot_box_with_check: 后端：<del>Golang（2022）已经忘了</del>Golang（2024）又捡起来了/Python（2022）
 
 :ballot_box_with_check: 嵌入式：ARM（2019）/<del>51（2015）过时技术，不写了</del>/ESP32（2024）
 
