@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoshuChiu&layout=compact" />
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 技能栈：
 
