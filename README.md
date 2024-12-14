@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 :ballot_box_with_check: 数字电路设计：Verilog HDL（2024）
 
-:ballot_box_with_check: PCB设计（2021）
+:ballot_box_with_check: PCB设计（2021）<del>真会吗？如会</del>
 
 :ballot_box_with_check: CAD建模：Solidworks（2022）
 
