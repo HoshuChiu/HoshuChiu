@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 :ballot_box_with_check: 底层：C（2014）/C++（2017）
 
-:ballot_box_with_check: 前端：Qt（2020）/Vue.js（2023）/LVGL（2024）
+:ballot_box_with_check: 前端：Qt（2020）/Vue.js（2023）/LVGL（2024）/Flutter（2025）
 
 :ballot_box_with_check: 后端：<del>Golang（2022）已经忘了</del>Golang（2024）又捡起来了/Python（2022）
 
