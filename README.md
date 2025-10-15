@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
+2025年上半年没怎么更新是因为忙着搞毕业设计和找工作去了，现在生活逐渐稳定下来可以继续捣鼓各种东西咯。（2025年10月15日留）
+
 技能栈：
 
 :ballot_box_with_check: 底层：C（2014）/C++（2017）
