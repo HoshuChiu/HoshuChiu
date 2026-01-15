@@ -32,9 +32,13 @@ Here are some ideas to get you started:
 
 :ballot_box_with_check: 后端：<del>Golang（2022）已经忘了</del>Golang（2024）又捡起来了/Python（2022）
 
-:ballot_box_with_check: 嵌入式：ARM（2019）/<del>51（2015）过时技术，不写了</del>/ESP32（2024）
+:ballot_box_with_check: 嵌入式：ARM MCU（2019）/ESP32（2024）/Zynq（2025）/ARM MPU（2026）
 
-:ballot_box_with_check: 数字电路设计：Verilog HDL（2024）
+:ballot_box_with_check: 接口技术：USB 2.0（2025）/PCIe（2026）
+
+:ballot_box_with_check: 操作系统：FreeRTOS（2024）/VxWorks（2025）/Linux（2026）
+
+:ballot_box_with_check: 数字电路设计：Verilog HDL（2024）/Vivado（2025）
 
 :ballot_box_with_check: PCB设计（2021）<del>真会吗？如会</del>
 
@@ -43,6 +47,8 @@ Here are some ideas to get you started:
 :ballot_box_with_check: CG建模：Blender（2024）
 
 :ballot_box_with_check: 游戏编程：Godot（2024）
+
+:ballot_box_with_check: 其它：计算机视觉（2024）
 
 目标拿下：
 
